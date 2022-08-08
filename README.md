@@ -1,5 +1,10 @@
 # Options Event Study
 
-OptionES_V6.ipynb is the last wroking code.\n
-Currently I am modifying the flow and structure of the code in the file OptionES_V7.ipynb.\n
-Trying to add PERMCO to ivol data, in order to split it by UID("tic+permco"). This will help eliminiate the UIDs with less than a years worth of data. 
+OptionES_V6.ipynb is the last working code.
+
+
+## OptionES_V7.ipynb is a work in progress.
+Incorporating counters at different steps of code. 
+Checking for duplicate dates, permco and missing crsp files. 
+Changing the calcualtions for Log return calculations (both for ivol and crsp data)
+Adding PERMCO to ivol data, in order to split it by UID("tic+permco"). This will help eliminiate the UIDs with less than a years worth of data. 
