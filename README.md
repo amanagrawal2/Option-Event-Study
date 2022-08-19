@@ -1,7 +1,7 @@
 # Options event study - Extended
 
 ## Common stock:
-# _crsp.ipynb_
+### _crsp.ipynb_
  - Downloaded the whole CRSP Database for the period of 2013-17
  - Imported the CSV 
  - Dropped the column "Unnamed: 0"
