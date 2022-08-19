@@ -1,4 +1,4 @@
-# Options event study - Extended
+# **Options event study - Extended**
 
 ## Common stock:
 ### _crsp.ipynb_
