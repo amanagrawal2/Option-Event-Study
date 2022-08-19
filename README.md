@@ -14,4 +14,5 @@
     - Converted the "DataDate"s to Datetime
  - Split the Dataframe into smaller Dataframes based upon PERMCO and only take the required columns
  - Exported the Dataframe to csv with filename : {permco}_crsp.csv
- Note: Due to the nature of "chunk based csv reading", I am exporting these dataframes and then rereading the individual crsp file if there is more data to be added to it in a later chunk cycle of larger crsp file.
+ 
+Note: Due to the nature of "chunk based csv reading", I am exporting these dataframes and then rereading the individual crsp file if there is more data to be added to it in a later chunk cycle of larger crsp file.
